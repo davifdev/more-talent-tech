@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "AtypText";
+  src: url(../fonts/AtypText-Bold.woff2) format('woff2'),
+  url(../fonts/AtypText-Bold.woff) format("wof");
+  font-weight: bold;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "AtypText";
+  src: url(../fonts/AtypText-Regular.woff2) format('woff2'),
+  url(../fonts/AtypText-Semibold.woff) format("wof");
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "AtypText";
+  src: url(../fonts/AtypText-Medium.woff2) format('woff2'),
+  url(../fonts/AtypText-Medium.woff) format("wof");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "AtypText";
+  src: url(../fonts/AtypText-Regular.woff2) format('woff2'),
+  url(../fonts/AtypText-Regular.woff) format("wof");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
